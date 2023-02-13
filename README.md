@@ -339,6 +339,6 @@ https://youtu.be/dgpNDSHDZ08
   2. Cada circuito reporto valores importantes que permitieron entender los resultados y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado.
 
 
-##6 BIBLIOGRAFÍA.
+## 6 BIBLIOGRAFÍA.
 
 Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. 
