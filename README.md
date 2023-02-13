@@ -1,6 +1,6 @@
 # TAREA 8
 
-	Universidad de las Fuerzas Armadas ESPE.
+	**Universidad de las Fuerzas Armadas ESPE.
 
 	INFORME: CAPÍTULO 15 Y 16.
 
@@ -8,7 +8,7 @@
 
 	NRC: 10067.
 
-	DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.
+	DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.**
 
 ## 1.	OBJETIVOS
 
