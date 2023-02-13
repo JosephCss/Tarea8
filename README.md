@@ -1,6 +1,6 @@
 # TAREA 8
 
-	**Universidad de las Fuerzas Armadas ESPE.
+	Universidad de las Fuerzas Armadas ESPE.
 
 	INFORME: CAPÍTULO 15 Y 16.
 
@@ -8,7 +8,7 @@
 
 	NRC: 10067.
 
-	DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.**
+	DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.
 
 ## 1.	OBJETIVOS
 
@@ -326,8 +326,12 @@ SECCIÓN 16–8 Aplicaciones básicas.
 44. Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto.
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ62.2%20(2).png)
+## 4.	VIDEO
 
-CONCLUSIONES.
+https://youtu.be/dgpNDSHDZ08
+
+
+## 5. CONCLUSIONES.
 
 1. En conclusioón, en los circuitos RC el condensador está descargado, en el momento que empieza a correr el tiempo, el condensador comienza a cargarse ya que hay una corriente en el circuito. 
 
@@ -335,6 +339,6 @@ CONCLUSIONES.
   2. Cada circuito reporto valores importantes que permitieron entender los resultados y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado.
 
 
-BIBLIOGRAFÍA.
+##6 BIBLIOGRAFÍA.
 
 Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. 
